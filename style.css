@@ -30,9 +30,11 @@ h4 {
     -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
     /* make all photos black and white */
-    width: 100%;
-    /* Set width to 100% */
+    /* width: 100%;
+     Set width to 100% */
     margin: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .carousel-caption {
